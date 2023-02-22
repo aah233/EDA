@@ -1,0 +1,23 @@
+@Type
+Not Directed
+%
+@Vertex
+A
+B
+C
+D
+E
+F
+%
+@Edges
+A B 21
+A C 5
+A D 25
+B C 21
+B E 13
+C D 21
+C E 17
+C F 25
+D F 9
+E F 25
+%
